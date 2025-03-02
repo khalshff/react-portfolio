@@ -1,3 +1,10 @@
+Initially decided to develop my portfolio using Angular to explore its features, but after reflecting on it, I realized that Angular might be overkill for a simple portfolio project. React, on the other hand, is much more lightweight and efficient for this purpose. As I continue to learn React, I’m building my portfolio along the way. My goal is to learn and experiment with component-based development while creating something interactive and visually appealing.
+
+Follow me along on this journey.
+
+
+===========
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
