@@ -1,6 +1,25 @@
 @import "tailwindcss";
 
+/* @plugin "" */
+
 @theme {
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  --color-lightHover: '#fcf4ff';
+  --color-darkHover: '#2a004a';
+  --color-darkTheme: '#11001F';
+
+  --animate-aurora: aurora 60s linear infinite
+
+  @keyframes aurora {
+    from {
+      backgroundPosition: "50% 50%, 50% 50%",
+    },
+    to {
+      backgroundPosition: "350% 50%, 350% 50%",
+    }
+
+  }
 }
+
