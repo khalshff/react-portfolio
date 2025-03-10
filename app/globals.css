@@ -6,13 +6,15 @@
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 
-  --color-lightHover: '#fcf4ff';
-  --color-darkHover: '#2a004a';
-  --color-darkTheme: '#11001F';
-  --color-primary:"#ed3849";
+  --color-lightHover: #fcf4ff;
+  --color-darkHover: #2a004a;
+  --color-darkTheme: #11001F;
+  --color-primary:#ed3849;
 
-  --shadow-black:'4px 4px 0 #000';
-  --shadow-white:'4px 4px 0 #fff';
+  --shadow-grey:3px 3px 0 #cacaca;
+  --shadow-white:3px 3px 0 #fff;
+
+  --grid-cols-auto: repeat(auto-fit, minmax(200px, 1fr));
 
   /* --animate-aurora: aurora 60s linear infinite; */
 
